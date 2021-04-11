@@ -1,0 +1,31 @@
+{
+  "name": "team_profile_generator",
+  "version": "1.0.0",
+  "description": "The tast is to build a node.js command-line application that take in data about employees on a software engineering team and general HTMl page with all their data input.",
+  "main": "Index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "email-validator": "^2.0.4",
+    "inquirer": "^7.3.3",
+    "jest": "^26.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msaidi76/team_profile_generator"
+  },
+  "keywords": [
+    "[]"
+  ],
+  "author": "Mohamed Saidi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msaidi76/team_profile_generator/issues"
+  },
+  "homepage": "https://github.com/msaidi76/team_profile_generator#readme"
+}
