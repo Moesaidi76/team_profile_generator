@@ -10,7 +10,6 @@ The tast is to build a node.js command-line application that take in data about 
 ## Table of contents
 
 - [Description](#Description)
-- [Installation](#Installation)
 - [Usage](#Usage)
 - [Licence](#Licence)
 - [Contributors](#Contributors)
@@ -41,8 +40,7 @@ SO THAT I have quick access to their emails and GitHub profiles
 
 ## Contributors
 
-![GitHub license](https://img.shields.io/badge/Made%20by-%40Mohamed-Blue)
-Mohamed Saidi
+![GitHub license](https://img.shields.io/badge/Made%20by-%40MohamedSaidi-Blue)
 
 ## Test
 
